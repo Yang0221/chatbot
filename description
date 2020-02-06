@@ -8,13 +8,13 @@ Objectif du projet
 
 
  Qu’est ce que fait le chatbot :
-les utilisateur tapent  le nom soit le numero de batiment   , Le  chatbot peut afficher les detail du batiment par rapport  des donnes  
+les utilisateur tapent  le nom soit le numero soit l'activité  du batiment ,et le chatbot peut afficher l'adress ou les details du batiment   
 
 l’outil associé:
 
 sur le site web du universite bordeaux 
 
-exemple :
+exemple de l'utilisation:
 
 - utilisateur
 * chatbot
@@ -22,16 +22,16 @@ exemple :
 -Bonjour
 *Bonjour ,Qu'est ce que je peut vous aider?
 -je voudrais savoir  où se trouve le Batiment A22
-*Voici l'adress du Batiment A22 :~
+*Voici l'adress du Batiment A22 : 33400 Talence
 
 
--Bonjour , où se trouve la salle du sport?
-*Bonjour , Batiment ~ ,Batiment ~ et Batiment ~  a salle du sport.
+-Bonjour , où se trouve la salle pour l'aide du logement?
+*Bonjour ,dans  Batiment A22 il y a  .
 
 
 
--Bonjour,je vousdrais faire inscrption en Informatique ,où se trouve le Breau?
-*Bonjour ,Dans batiment A22 il y a bureau adminisatif du informatique.
+-Bonjour,je vousdrais faire inscrption en Informatique ,où se trouve le Bureau?
+*Bonjour,Salle adminisatif du batiment A22 .
 
 
 
